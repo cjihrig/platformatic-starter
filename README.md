@@ -14,7 +14,6 @@
 
 - Node.js >= v16.17.0 or >= v18.8.0
 
-## Install
 
 ```sh
 yarn install
